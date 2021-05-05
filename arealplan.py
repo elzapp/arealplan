@@ -37,7 +37,7 @@ fg.id("https://elzapp.com/feeds/bk_arealplan.xml")
 fg.title("Bergen Kommune Arealplaner")
 fg.author({"name": "Elzapp", "email": "elzapp@elzapp.com"})
 fg.language("no")
-new = [e for e in get_arealplan_json()["treff"] if e["id"] not in cached_ids]
+new = [e for e in get_arealplan_json()["kunngjoringer"] if e["id"] not in cached_ids]
 for treff in new:
     treff["seen"] = datetime.utcnow()
     cache["items"].append(treff)
