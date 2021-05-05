@@ -40,6 +40,8 @@ jobs:
           mkdir -p public
           mv bk_arealplan.xml public/
       - name: Deploy 🚀
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
         uses: JamesIves/github-pages-deploy-action@3.5.9
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
