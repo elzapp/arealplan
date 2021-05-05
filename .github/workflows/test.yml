@@ -35,4 +35,5 @@ jobs:
           python3 -m pip install -r requirements.txt
       - name: run test script
         run: |
-          python3 test.py
+          python3 arealplan.py
+          cat bk_arealplan.xml
