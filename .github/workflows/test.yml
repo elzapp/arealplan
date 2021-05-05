@@ -37,3 +37,11 @@ jobs:
         run: |
           python3 arealplan.py
           cat bk_arealplan.xml
+          mkdir -p public
+          mv bk_arealplan.xml public/
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@3.5.9
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: public # The folder the action should deploy.
