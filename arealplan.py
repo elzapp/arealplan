@@ -45,7 +45,7 @@ for treff in sorted(cache["items"],key=lambda x: x["seen"].isoformat()):
     fe = fg.add_entry()
     fe.updated(pytz.utc.localize(treff["seen"]))
     fe.id(treff["id"])
-    fe.title(treff["navn"])
+    fe.title(treff["tittel"])
     fe.description(treff["ingress"])
     fe.link(href="https://www.bergen.kommune.no"+treff["url"])
     #print(treff)
