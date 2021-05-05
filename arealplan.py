@@ -12,7 +12,7 @@ except ImportError:
     from yaml import Loader, Dumper
 
 def get_arealplan_json():
-    r = requests.get("https://www.bergen.kommune.no/rest/liste?start=0&q=*&innholdstype=arealplan&innholdstype=utbyggingsavtale&rader=150&_="+str(int(time.time())))
+    r = requests.get("https://www.bergen.kommune.no/publisering/api/kunngjoringer/liste/?bydel=alle_bydeler&status=arealplan&tekst=&fra=0&antall=50&_="+str(int(time.time())))
     return r.json()
 
 def get_cache():
