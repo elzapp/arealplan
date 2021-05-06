@@ -33,7 +33,7 @@ cache = get_cache()
 cached_ids = [e["id"] for e in cache["items"]]
 
 fg = FeedGenerator()
-fg.id("https://raw.githubusercontent.com/elzapp/arealplan/gh-pages/bk_arealplan.xml")
+fg.id("https://elzapp.github.io/arealplan/bk_arealplan.xml")
 fg.title("Bergen Kommune Arealplaner")
 fg.author({"name": "Elzapp", "email": "elzapp@elzapp.com"})
 fg.language("no")
