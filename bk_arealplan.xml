@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="no">
   <id>https://elzapp.github.io/arealplan/bk_arealplan.xml</id>
   <title>Bergen Kommune Arealplaner</title>
-  <updated>2021-06-22T02:13:46.594941+00:00</updated>
+  <updated>2021-06-23T02:06:25.429420+00:00</updated>
   <author>
     <name>Elzapp</name>
     <email>elzapp@elzapp.com</email>
@@ -11,154 +11,154 @@
   <entry>
     <id>T539761006</id>
     <title>Strategisk planprogram for Laksevåg</title>
-    <updated>2021-06-22T02:13:48.759206+00:00</updated>
+    <updated>2021-06-23T02:06:27.079489+00:00</updated>
     <content/>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/strategisk-planprogram-for-laksevag" rel="alternate"/>
   </entry>
   <entry>
     <id>T540020091</id>
     <title>Vedtak opphevelse av kommunedelplan for Mildehalvøya</title>
-    <updated>2021-06-22T02:13:48.759205+00:00</updated>
+    <updated>2021-06-23T02:06:27.079488+00:00</updated>
     <content>KDP for Mildehalvøya</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/vedtak-opphevelse-av-kommunedelplan-for-mildehalvoya" rel="alternate"/>
   </entry>
   <entry>
     <id>T540021338</id>
     <title>Vedtak opphevelse av kommunedelplan Ringveg Vest</title>
-    <updated>2021-06-22T02:13:48.759204+00:00</updated>
+    <updated>2021-06-23T02:06:27.079488+00:00</updated>
     <content>KDP Ringveg Vest</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/vedtak-opphevelse-av-kommunedelplan-ringveg-vest" rel="alternate"/>
   </entry>
   <entry>
     <id>T540022099</id>
     <title>Oppheving av kommuneldelplan Fastlandssambandet Sotra-Bergen</title>
-    <updated>2021-06-22T02:13:48.759204+00:00</updated>
+    <updated>2021-06-23T02:06:27.079488+00:00</updated>
     <content>KDP Fastlandssambandet Sotra-Bergen</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/oppheving-av-kommuneldelplan-fastlandssambandet-sotra-bergen" rel="alternate"/>
   </entry>
   <entry>
     <id>T540022245</id>
     <title>Opphevelse av kommunedelplan E39 Svegatjørn-Rådal</title>
-    <updated>2021-06-22T02:13:48.759203+00:00</updated>
+    <updated>2021-06-23T02:06:27.079487+00:00</updated>
     <content>KDP E39 Svegatjørn-Rådal</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/opphevelse-av-kommunedelplan-e39-svegatjorn-radal" rel="alternate"/>
   </entry>
   <entry>
     <id>T540022650</id>
     <title>Opphevelse av kommunedelplan E39 Åsane nord</title>
-    <updated>2021-06-22T02:13:48.759202+00:00</updated>
+    <updated>2021-06-23T02:06:27.079487+00:00</updated>
     <content>KDP E39 Åsane Nord, tunnel Midtbygda-Nordhordlandsbrua</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/opphevelse-av-kommunedelplan-e39-asane-nord" rel="alternate"/>
   </entry>
   <entry>
     <id>T541019201</id>
     <title>Krohn'en, Damsgårdsveien</title>
-    <updated>2021-06-22T02:13:48.759201+00:00</updated>
+    <updated>2021-06-23T02:06:27.079486+00:00</updated>
     <content>Offentlig ettersyn. Gnr. 158 bnr. 49 mfl. Hovedformål: Kontor/tjenesteyting. Detaljregulering</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/krohnen-damsgardsveien" rel="alternate"/>
   </entry>
   <entry>
     <id>T541450124</id>
     <title>Store Lungegårdsvann</title>
-    <updated>2021-06-22T02:13:48.759201+00:00</updated>
+    <updated>2021-06-23T02:06:27.079486+00:00</updated>
     <content>Gnr. 166 bnr. 1676 mfl. Hovedformål: Bruk og vern av vannarealet og deler av strandsonen. Detaljregulering.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/store-lungegardsvann" rel="alternate"/>
   </entry>
   <entry>
     <id>T541998871</id>
     <title>Energiteknologibygget, Allégaten</title>
-    <updated>2021-06-22T02:13:48.759200+00:00</updated>
+    <updated>2021-06-23T02:06:27.079486+00:00</updated>
     <content>Gnr 164 bnr 726 mfl. Vedtatt plan. Detaljregulering. Hovedformål: Undervisning/forskning.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/energiteknologibygget-allgaten" rel="alternate"/>
   </entry>
   <entry>
     <id>T542066846</id>
     <title>Bybanen til Åsane. Tilleggsutredning til konsekvensutredning, Griggastemma</title>
-    <updated>2021-06-22T02:13:48.759199+00:00</updated>
+    <updated>2021-06-23T02:06:27.079485+00:00</updated>
     <content>Tilleggsutredning for strekningen Selviktunnelen-Tertneskrysset. Offentlig ettersyn.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/bybanen-til-asane-tilleggsutredning-til-konsekvensutredning-griggastemma" rel="alternate"/>
   </entry>
   <entry>
     <id>T542067272</id>
     <title>Bybanen til Åsane. Tilleggsutredning til konsekvensutredning, kryssing av E39 i Åsane</title>
-    <updated>2021-06-22T02:13:48.759199+00:00</updated>
+    <updated>2021-06-23T02:06:27.079485+00:00</updated>
     <content>Tilleggsutredning for strekningen Åsane sentrum-Nyborg. Offentlig ettersyn.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/bybanen-til-asane-tilleggsutredning-til-konsekvensutredning-kryssing-av-e39-i-asane" rel="alternate"/>
   </entry>
   <entry>
     <id>T545463355</id>
     <title>Varsel om ekspropriasjon for Johan Berentsens vei</title>
-    <updated>2021-06-22T02:13:48.759198+00:00</updated>
+    <updated>2021-06-23T02:06:27.079485+00:00</updated>
     <content>Varsel om ekspropriasjon til gjennomføring av reguleringsplan for Johan Berentsens vei.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/varsel-om-ekspropriasjon-for-johan-berentsens-vei" rel="alternate"/>
   </entry>
   <entry>
     <id>T546277439</id>
     <title>Arealstrategi for Dokken</title>
-    <updated>2021-06-22T02:13:48.759197+00:00</updated>
+    <updated>2021-06-23T02:06:27.079484+00:00</updated>
     <content>Arealstrategi for Dokken skal bidra til å konkretisere de overordnede visjonene for området, og være et godt diskusjonsgrunnlag for veien videre.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/arealstrategi-for-dokken" rel="alternate"/>
   </entry>
   <entry>
     <id>T546535268</id>
     <title>Nybøhagen - Begrenset høring</title>
-    <updated>2021-06-22T02:13:48.759197+00:00</updated>
+    <updated>2021-06-23T02:06:27.079484+00:00</updated>
     <content>Gnr. 41 bnr. 757. Detaljregulering</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/nybohagen-begrenset-horing" rel="alternate"/>
   </entry>
   <entry>
     <id>T546659437</id>
     <title>Fana brannstasjon og boligtun</title>
-    <updated>2021-06-22T02:13:48.759196+00:00</updated>
+    <updated>2021-06-23T02:06:27.079484+00:00</updated>
     <content>Gnr. 12 bnr. 44 mfl. Hovedformål: Offentlig eller privat tjenesteyting. Detaljregulering.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/fana-brannstasjon-og-boligtun" rel="alternate"/>
   </entry>
   <entry>
     <id>T546662959</id>
     <title>Espehaugen Øst</title>
-    <updated>2021-06-22T02:13:48.759195+00:00</updated>
+    <updated>2021-06-23T02:06:27.079483+00:00</updated>
     <content>Gnr. 107 bnr. 33 mfl. Hovedformål: Næringsbebyggelse (industri/lager). Detaljregulering.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/espehaugen-ost" rel="alternate"/>
   </entry>
   <entry>
     <id>T546795406</id>
     <title>Petedalsmyra</title>
-    <updated>2021-06-22T02:13:48.759195+00:00</updated>
+    <updated>2021-06-23T02:06:27.079483+00:00</updated>
     <content>Gnr. 39 bnr. 717 mfl. Hovedformål: Helse- og omsorgsinstitusjon. Detaljregulering</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/petedalsmyra" rel="alternate"/>
   </entry>
   <entry>
     <id>T546903551</id>
     <title>Hatlestad</title>
-    <updated>2021-06-22T02:13:48.759194+00:00</updated>
+    <updated>2021-06-23T02:06:27.079482+00:00</updated>
     <content>Gnr. 82 bnr. 9 mfl. Hovedformål: Bolig. Detaljregulering</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/hatlestad" rel="alternate"/>
   </entry>
   <entry>
     <id>T546907184</id>
     <title>Fagerheim barneskole mm</title>
-    <updated>2021-06-22T02:13:48.759193+00:00</updated>
+    <updated>2021-06-23T02:06:27.079482+00:00</updated>
     <content>GNr. 120 bnr. 5. Hovedformål: Samferdselsanlegg. Endring etter forenklet prosess.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/fagerheim-barneskole-mm" rel="alternate"/>
   </entry>
   <entry>
     <id>T547419505</id>
     <title>Laksevåg idrettsanlegg</title>
-    <updated>2021-06-22T02:13:48.759192+00:00</updated>
+    <updated>2021-06-23T02:06:27.079482+00:00</updated>
     <content>Gnr. 146 bnr. 9 mfl. Hovedformål: Idrett. Detaljregulering.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/laksevag-idrettsanlegg" rel="alternate"/>
   </entry>
   <entry>
     <id>T547421172</id>
     <title>Loddefjordåsen</title>
-    <updated>2021-06-22T02:13:48.759191+00:00</updated>
+    <updated>2021-06-23T02:06:27.079481+00:00</updated>
     <content>Gnr. 124 bnr. 180 mfl. områdereguleringsplan med konsekvensutredning.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/loddefjordasen" rel="alternate"/>
   </entry>
   <entry>
     <id>T547555739</id>
     <title>Dolvika B4</title>
-    <updated>2021-06-22T02:13:48.759186+00:00</updated>
+    <updated>2021-06-23T02:06:27.079477+00:00</updated>
     <content>Gnr. 34 bnr. 4. Hovedformål: Bolig. Detaljregulering.</content>
     <link href="https://www.bergen.kommune.no/hvaskjer/kunngjoringer/dolvika-b4" rel="alternate"/>
   </entry>
